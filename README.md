@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>CompConc - Trabalhos da Silvana BCC UFRJ 21.1</h1>
+  <h1>CalcNum - Trabalhos do João Paixão BCC UFRJ 21.2</h1>
   <img src="/Imagens/logo.png" width="300"/>
  </div>
 
